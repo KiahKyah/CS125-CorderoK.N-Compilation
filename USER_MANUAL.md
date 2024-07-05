@@ -2,13 +2,13 @@
 
 # PawnQuest: Pawn smart, Pawn easy, PawnQuest makes it effortless
 
-#🌟Introduction
+# 🌟 Introduction
 Pawnquest is an application that aims to resonate with the hearts of serviceable obtainable Filipinos of around 1.9M in our first year by providing a service such as an appraisal of jewelry and electronics, a fake detection mechanism to determine the authenticity of an object by 3D capturing the item and if device uploads its software details in the cloud to be determined by our model.
 
-#🛠️The Prototype
+# 🛠️ The Prototype
 PawnQuest prototype was developed using Figma, you can access it here!
 
-#ℹ️Additional Information
+# ℹ️ Additional Information
 Certificate: Contains the certificate for completion of the first course in Google's UX Design Coursera Specialization called "Start the UX Design Process Empathize Define and Ideate"
 Part 1: Included app and team logo, design process, the problem and solution.
 Part 2: Introduced the design summary, alternative UI designs, and user scenarios.
